@@ -1,4 +1,4 @@
-# Sales Performance Dashboard Analysis using Power BI
+# Sales Performance Dashboard Analytics
 
 ## 📌 Project Overview
 
