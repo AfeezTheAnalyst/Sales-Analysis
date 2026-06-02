@@ -157,7 +157,7 @@ DIVIDE([Total Revenue], DISTINCTCOUNT(Sales[Order ID]))
 
 ### Executive Dashboard
 
-![Dashboard Screenshot](images/dashboard_overview.png)
+![Dashboard Screenshot](https://github.com/AfeezTheAnalyst/Sales-Analysis/blob/main/Screenshot%202026-05-17%20172633.png)
 
 ### Sales Analysis Dashboard
 
