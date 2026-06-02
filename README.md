@@ -161,7 +161,7 @@ DIVIDE([Total Revenue], DISTINCTCOUNT(Sales[Order ID]))
 ![my dashboard]()
 ### Sales Analysis Dashboard
 
-![Sales Dashboard](images/sales_analysis.png)
+![Sales Dashboard](https://github.com/AfeezTheAnalyst/Sales-Analysis/blob/main/dash.png)
 
 ### Regional Analysis Dashboard
 
