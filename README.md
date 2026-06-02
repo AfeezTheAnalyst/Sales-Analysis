@@ -33,13 +33,13 @@ The primary objectives of this project are:
 
 ## 🛠 Tools and Technologies
 
-| Tool | Purpose |
-|--------|---------|
-| Power BI Desktop | Data Visualization & Dashboard Development |
-| Microsoft Excel | Data Source |
-| Power Query | Data Cleaning & Transformation |
-| DAX | Calculated Measures and KPIs |
-| GitHub | Project Documentation & Version Control |
+| Tool | Purpose | Remark |
+|--------|---------|-------------|
+| Power BI Desktop | Data Visualization & Dashboard Development | Excellent |
+| Microsoft Excel | Data Source | Good | 
+| Power Query | Data Cleaning & Transformation | Excellent |
+| DAX | Calculated Measures and KPIs | Excellent |
+| GitHub | Project Documentation & Version Control | Good |
 
 ---
 
